@@ -1,4 +1,7 @@
 - Capítulo 0: Introducción a entornos de desarrollo.
+ 	- 0.1 Introducción
+	- 0.2 Conceptos básicos
+	- 0.3 Herramientas
 - Capítulo 1: Repositorios de Código
 - Capítulo 2: UML
 - Capítulo 3: IDEs de desarrollo más comunes
