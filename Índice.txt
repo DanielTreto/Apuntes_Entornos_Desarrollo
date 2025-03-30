@@ -3,5 +3,8 @@
 	- 0.2 Conceptos básicos
 	- 0.3 Herramientas
 - Capítulo 1: Repositorios de Código
+	- 1.1 Conceptos básicos de Git
+	- 1.2 Flujo de trabajo en Git
+	- 1.3 Comandos esenciales
 - Capítulo 2: UML
 - Capítulo 3: IDEs de desarrollo más comunes
